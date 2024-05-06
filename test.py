@@ -24,11 +24,6 @@ e="Python Language"
 swap_case=e.swapcase()
 print(swap_case)
 
-#WAP TO FIND MOST FREQUENT WORD IN A GIVEN STRING
-f=["Python is a programming language","Python is OOP'S based","Python is case sensitive language","Python is easy"]
-
-
-
 #WAP TO CHECK IF A STRING IS AN ANAGRAM OF ANOTHER STRING
 g1="song"
 g2="music"
