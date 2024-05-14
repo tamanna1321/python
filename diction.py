@@ -11,3 +11,12 @@ print(result)
 marks={'eng':100,'hindi':20,'social':45,'punjabi':85}
 print("highest marks:",sorted(marks.values())[-1])
 print("second highest marks:",sorted(marks.values())[-2])
+
+# WAP TO  CREATE FOLLOWING LIST
+# a = ['a','b','c']
+# b = ['d','e','f']
+
+a = ['a','b','c']
+b = ['d','e','f']
+result = [a+b for a,b in zip(a,b)]
+print(result)
