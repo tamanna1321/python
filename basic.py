@@ -6,6 +6,13 @@ print(type(13))
 print(type(45.0))
 print(type(44.098798))
 
+#TYPE CONVERSION
+a = 10
+b=0
+print(float(a))
+print(bool(int(a)))
+print(bool(b))
+
 
 # Swapping two variables using third variable
 a=13
